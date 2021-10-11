@@ -1,0 +1,19 @@
+{
+    "name": "awcodes/us-states",
+    "description": "Get US states by all or query by code, name or slug.",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Awcodes\\UsStates\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "awcodes",
+            "email": "awcodes1@gamil.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
